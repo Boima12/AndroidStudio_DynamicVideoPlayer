@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624193732879",
+    "project_id": "dynamic-video-player-2b7a9",
+    "storage_bucket": "dynamic-video-player-2b7a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624193732879:android:cedc8b21c39929b38dbe7a",
+        "android_client_info": {
+          "package_name": "com.example.dynamicvideoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbEKnIzrv9rLEB2ZRLMQCPh4A-V1mDp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
