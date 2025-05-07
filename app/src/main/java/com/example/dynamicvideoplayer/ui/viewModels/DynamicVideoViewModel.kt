@@ -16,7 +16,7 @@ class DynamicVideoViewModel : ViewModel() {
     val videoUrl: StateFlow<String?> = _videoUrl
 
     private val databaseReference: DatabaseReference =
-        FirebaseDatabase.getInstance("https://console.firebase.google.com/u/0/project/dynamic-video-player-2b7a9/database/dynamic-video-player-2b7a9-default-rtdb/data/~2F").getReference("url")
+        FirebaseDatabase.getInstance("https://dynamic-video-player-2b7a9-default-rtdb.asia-southeast1.firebasedatabase.app/").getReference("url")
 
     init {
         fetchVideoUrl()
